@@ -1,5 +1,5 @@
 {
-    "name": "master/hdLibs",
+    "name": "vngen/hdLibs",
     "type": "library",
     "description": "This library include classes that support building a PHP application from scratch",
     "keywords": [],
