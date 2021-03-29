@@ -1,0 +1,16 @@
+{
+    "name": "master/hdLibs",
+    "type": "library",
+    "description": "This library include classes that support building a PHP application from scratch",
+    "keywords": [],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+             "name": "Hoang Dang",
+             "email": "dthoang.it@gmail.com",
+             "homepage": "",
+             "role": "Developer"
+        }
+    ],
+}
